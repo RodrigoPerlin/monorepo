@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/RodrigoPerlin/monorepo/compare/@ds/projeto1@1.5.0...@ds/projeto1@1.6.0) (2023-08-24)
+
+
+### Features
+
+* **app1:** remove how are you ([8414a1d](https://github.com/RodrigoPerlin/monorepo/commit/8414a1d2116c0e93873620f52fedf4fa96ab6adb))
+
+
+
+
+
 # [1.5.0](https://github.com/RodrigoPerlin/monorepo/compare/@ds/projeto1@1.4.1...@ds/projeto1@1.5.0) (2023-08-24)
 
 
