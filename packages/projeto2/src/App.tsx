@@ -4,7 +4,7 @@ import Button from "./components/Button";
 import React from "react";
 const App = () => (
   <ThemeProvider theme={theme}>
-    <Button background="red">Olaaaa</Button>1111
+    <Button background="red">Olaaaa</Button>
   </ThemeProvider>
 );
 export default App;
