@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/RodrigoPerlin/monorepo/compare/@ds/projeto1@1.4.1...@ds/projeto1@1.5.0) (2023-08-24)
+
+
+### Features
+
+* **pall:** add text teste 2 ([d8f47b5](https://github.com/RodrigoPerlin/monorepo/commit/d8f47b57f3dcce830b665eeb6db00603ee25202f))
+
+
+
+
+
 ## [1.4.1](https://github.com/RodrigoPerlin/monorepo/compare/@ds/projeto1@1.4.0...@ds/projeto1@1.4.1) (2023-08-24)
 
 
