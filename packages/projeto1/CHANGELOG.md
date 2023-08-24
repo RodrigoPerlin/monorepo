@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.1](https://github.com/RodrigoPerlin/monorepo/compare/@ds/projeto1@1.4.0...@ds/projeto1@1.4.1) (2023-08-24)
+
+
+### Bug Fixes
+
+* **projet1:** remove text teste 2 ([27a6893](https://github.com/RodrigoPerlin/monorepo/commit/27a6893c20061c372d36fb99613a99604809c4a0))
+
+
+
+
+
 # [1.4.0](https://github.com/RodrigoPerlin/monorepo/compare/@ds/projeto1@1.3.0...@ds/projeto1@1.4.0) (2023-08-24)
 
 
