@@ -1,5 +1,18 @@
 
 
+## [1.4.0](https://github.com/RodrigoPerlin/monorepo/compare/@ds/projeto2-v1.3.0...@ds/projeto2-v1.4.0) (2023-08-24)
+
+
+### Features
+
+* **app2:** added feat ([18f4874](https://github.com/RodrigoPerlin/monorepo/commit/18f487401103fa9e4b4b0b0c820b73b5f1183389))
+* **projeto1:** released version v1.7.0 [no ci] ([5206489](https://github.com/RodrigoPerlin/monorepo/commit/5206489f20b104f1401b1ff936994c66e51b557b))
+
+
+### Bug Fixes
+
+* **test:** added commit ([b7b7758](https://github.com/RodrigoPerlin/monorepo/commit/b7b7758b88437939b9dec82869b4ee1c3a6d1389))
+
 ## 1.3.0 (2023-08-24)
 
 
