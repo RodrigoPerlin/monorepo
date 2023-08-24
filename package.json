@@ -6,7 +6,8 @@
   ],
   "scripts": {
     "start": "lerna run --parallel --stream dev",
-    "start:components": "lerna exec --stream --scope @ds/components yarn dev",
+    "start:projeto1": "lerna exec --stream --scope @ds/projeto1 yarn dev",
+    "start:projeto2": "lerna exec --stream --scope @ds/projeto2 yarn dev",
     "build": "lerna run --parallel build",
     "lint": "lerna run --parallel lint"
   },
