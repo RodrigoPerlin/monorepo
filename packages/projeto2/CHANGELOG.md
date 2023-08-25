@@ -1,5 +1,14 @@
 
 
+## [0.4.0](https://github.com/RodrigoPerlin/monorepo/compare/@ds/projeto2-v0.3.0...@ds/projeto2-v0.4.0) (2023-08-25)
+
+
+### Features
+
+* **app2:** te2 ([4d0e9bf](https://github.com/RodrigoPerlin/monorepo/commit/4d0e9bf1c334a83ad2d3f6db4026ffaa610fa869))
+* **app2:** teste2 ([ea188ce](https://github.com/RodrigoPerlin/monorepo/commit/ea188ce3a07d3987bb8f997c49ce6723aa88fc29))
+* **projeto2:** released version v0.3.0 [no ci] ([03bbcf1](https://github.com/RodrigoPerlin/monorepo/commit/03bbcf1d056fd6126aec0860718c5758273c81a6))
+
 ## [0.3.0](https://github.com/RodrigoPerlin/monorepo/compare/@ds/projeto2-v0.3.0...@ds/projeto2-v0.3.0) (2023-08-25)
 
 
