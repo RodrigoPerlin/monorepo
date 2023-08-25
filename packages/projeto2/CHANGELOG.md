@@ -1,5 +1,12 @@
 
 
+## [0.3.0](https://github.com/RodrigoPerlin/monorepo/compare/@ds/projeto2-v0.3.0...@ds/projeto2-v0.3.0) (2023-08-25)
+
+
+### Features
+
+* **app2:** teste2 ([ea188ce](https://github.com/RodrigoPerlin/monorepo/commit/ea188ce3a07d3987bb8f997c49ce6723aa88fc29))
+
 ## [0.2.0](https://github.com/RodrigoPerlin/monorepo/compare/@ds/projeto2-v1.3.0...@ds/projeto2-v0.2.0) (2023-08-25)
 
 
