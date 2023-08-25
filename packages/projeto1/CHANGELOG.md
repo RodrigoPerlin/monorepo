@@ -1,5 +1,12 @@
 
 
+## [0.3.0](https://github.com/RodrigoPerlin/monorepo/compare/@ds/projeto1-v0.2.0...@ds/projeto1-v0.3.0) (2023-08-25)
+
+
+### Features
+
+* **app1:** test ([6e585c4](https://github.com/RodrigoPerlin/monorepo/commit/6e585c4f807dac7ef5fe156c0eb33d6a8e8f7b30))
+
 ## [0.2.0](https://github.com/RodrigoPerlin/monorepo/compare/@ds/projeto1-v0.1.0...@ds/projeto1-v0.2.0) (2023-08-25)
 
 
