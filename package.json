@@ -8,7 +8,7 @@
     "start": "lerna run --parallel --stream dev",
     "start:projeto1": "lerna exec --stream --scope @ds/projeto1 yarn dev",
     "start:projeto2": "lerna exec --stream --scope @ds/projeto2 yarn dev",
-    "release": "lerna run --parallel release",
+    "release": "lerna run --concurrency=1 release",
     "build": "lerna run --parallel build",
     "lint": "lerna run --parallel lint"
   },
