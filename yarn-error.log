@@ -1,0 +1,26 @@
+Arguments: 
+  /Users/rodrigoperlin/.nvm/versions/node/v16.20.1/bin/node /Users/rodrigoperlin/.nvm/versions/node/v16.20.1/bin/yarn init
+
+PATH: 
+  /Users/rodrigoperlin/.nvm/versions/node/v16.20.1/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/MacGPG2/bin:/Library/Apple/usr/bin:/Users/rodrigoperlin/Library/Android/sdk/emulator:/Users/rodrigoperlin/Library/Android/sdk/platform-tools:/Users/rodrigoperlin/Library/Android/sdk/tools/bin:/Users/rodrigoperlin/Library/Android/sdk/platform-tools
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.20.1
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  Error: EPERM: operation not permitted, open '/Users/rodrigoperlin/Desktop/package.json'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

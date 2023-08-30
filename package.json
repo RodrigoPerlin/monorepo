@@ -1,24 +1,22 @@
 {
-  "name": "root",
-  "private": true,
-  "workspaces": [
-    "packages/*"
-  ],
+  "name": "mono-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lerna run --parallel --stream dev",
-    "start:projeto1": "lerna exec --stream --scope @ds/projeto1 yarn dev",
-    "start:projeto2": "lerna exec --stream --scope @ds/projeto2 yarn dev",
-    "release": "lerna run --concurrency=1 release",
-    "build": "lerna run --parallel build",
-    "lint": "lerna run --parallel lint"
+    "release": "lerna run --concurrency=1 release"
   },
-  "engines": {
-    "node": ">=16.0.0"
-  },
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "@commitlint/cli": "^17.7.1",
     "@commitlint/config-conventional": "^17.7.0",
     "husky": "^8.0.3",
-    "lerna": "^6.1.0"
-  }
+    "lerna": "^6.6.2"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
 }
